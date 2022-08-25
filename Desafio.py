@@ -35,5 +35,5 @@ print(criptoMoedas)
 fig = px.line(criptoMoedas)
 fig.write_html('first_figure.html', auto_open=True)
 # finalizando o programa
-
+# criar um segundo gráfico para finalizar o projeto#
 
